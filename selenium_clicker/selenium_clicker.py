@@ -47,5 +47,3 @@ def selenium_clicker(count_meme=5,
         time.sleep(1)
         
     driver.close()
-    
-selenium_clicker(count_meme=10)
