@@ -13,7 +13,7 @@ import time
 # MAIN FUNC
 # =============================================================================
 
-def selenium_clicker(count_meme=5, 
+def make_meme(count_meme=5, 
                      meme_file='meme_22', 
                      fraze_file='frazes_10000'):
     
